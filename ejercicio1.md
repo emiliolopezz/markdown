@@ -20,6 +20,6 @@ My name is Victoria and I am **Jolly,Clumsy** and **four-eyed
 ![img](https://www.webstepbook.com/supplements/labsection/lab1-aboutme/solution/images/happy.jpg)
 ![img](https://www.webstepbook.com/supplements/labsection/lab1-aboutme/solution/images/sad.jpg)
 
-##Fun Facts About My Neighbors
-
--
+## Fun Facts About My Neighbors
+- Sue Smth: *Effervescent is a word that describes her*
+- Bill thomson: Loves Playing *Yu-Gi-Oh*
